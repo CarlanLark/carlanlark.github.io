@@ -38,7 +38,7 @@ interests:
 education:
   courses:
     - course: Ph.D. in Data Science
-      institution: Stanford University
+      institution: University of Science and Technology of China
       year: 2019-2025
     - course: B.S. in Mathematics
       institution: University of Science and Technology of China
@@ -118,4 +118,4 @@ social:
 highlight_name: true
 ---
 
-Guanhua Huang is a Ph.D. candidate in [University of Science and Technology of China](https://en.ustc.edu.cn/) (USTC), advised by [Weinan E](https://web.math.princeton.edu/~weinan/) and [Zhouwang Yang](http://staff.ustc.edu.cn/~yangzw/). Previously, he got a Bachelor in mathmatics from University of Science and Technology of China. He did internships at BIBDR and ByteDance, and mentored by [Yucheng Yang](https://sites.google.com/site/yangyucheng1993/), Yi Zhang, Jiaze Chen and [Yuchen Zhang](https://zhangyuc.github.io/).
+Guanhua Huang is a Ph.D. candidate in [University of Science and Technology of China](https://en.ustc.edu.cn/) (USTC), advised by [Weinan E](https://web.math.princeton.edu/~weinan/) and [Zhouwang Yang](http://staff.ustc.edu.cn/~yangzw/). Previously, he got a Bachelor in Mathematics from University of Science and Technology of China. He did internships at BIBDR and ByteDance, and mentored by [Yucheng Yang](https://sites.google.com/site/yangyucheng1993/), Yi Zhang, Jiaze Chen and [Yuchen Zhang](https://zhangyuc.github.io/).

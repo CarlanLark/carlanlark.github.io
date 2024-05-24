@@ -19,7 +19,7 @@ url_project: ""
 publication_short: ""
 url_source: ""
 url_video: ""
-title: An Iteratively Parallel Generation Method with the Pre-Filling Strategy for Document-level Event Extraction
+title: "An Iteratively Parallel Generation Method with the Pre-Filling Strategy for Document-level Event Extraction"
 doi: ""
 featured: true
 tags: []
@@ -28,10 +28,10 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
-  filename: 4.svg
+  filename: 4.png
 date: 2023-10-08T02:12:23.523Z
 url_slides: ""
 publishDate: 2023-10-08T00:00:00.000Z
 url_poster: ""
-url_code: ""
+url_code: https://github.com/CarlanLark/IPGPF
 ---
