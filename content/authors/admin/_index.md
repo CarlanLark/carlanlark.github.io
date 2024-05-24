@@ -110,12 +110,12 @@ social:
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
-  - icon: cv
-    icon_pack: ai
-    link: uploads/resume.pdf
+  # - icon: cv
+  #   icon_pack: ai
+  #   link: uploads/resume.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Guanhua Huang is a Ph.D. candidate in [University of Science and Technology of China](https://en.ustc.edu.cn/) (USTC), advised by [Weinan E](https://web.math.princeton.edu/~weinan/) and [Zhouwang Yang](http://staff.ustc.edu.cn/~yangzw/). Previously, he got a Bachelor in Mathematics from University of Science and Technology of China. He did internships at BIBDR and ByteDance, and mentored by [Yucheng Yang](https://sites.google.com/site/yangyucheng1993/), Yi Zhang, Jiaze Chen and [Yuchen Zhang](https://zhangyuc.github.io/).
+Guanhua Huang (黄冠华) is a Ph.D. candidate in [University of Science and Technology of China](https://en.ustc.edu.cn/) (USTC), advised by [Weinan E](https://web.math.princeton.edu/~weinan/) and [Zhouwang Yang](http://staff.ustc.edu.cn/~yangzw/). Previously, he got a Bachelor in Mathematics from [University of Science and Technology of China](https://en.ustc.edu.cn/) (USTC). He did internships at BIBDR and ByteDance, and mentored by [Yucheng Yang](https://sites.google.com/site/yangyucheng1993/), Yi Zhang, Jiaze Chen and [Yuchen Zhang](https://zhangyuc.github.io/).

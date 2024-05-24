@@ -66,7 +66,7 @@ sections:
           company: ByteDance Research
           company_url: ''
           company_logo: org-bytedance
-          location: Beijing
+          location: Beijing, China
           date_start: '2022-01-26'
           date_end: ''
           description: Mentored by [Dr. Jiaze Chen](https://scholar.google.com/citations?hl=zh-CN&user=Vt1j3kEAAAAJ&view_op=list_works&sortby=pubdate) and [Dr. Yuchen Zhang](https://zhangyuc.github.io/), working on LLM Research and Information Extraction Research.
@@ -74,7 +74,7 @@ sections:
           company: Peking University
           company_url: ''
           company_logo: org-pku
-          location: Beijing
+          location: Beijing, China
           date_start: '2021-07-01'
           date_end: ''
           description: Advised by [Prof. Weinan E](https://web.math.princeton.edu/~weinan/), working on LLM Research, Information Extraction Research and AI4Science Research.
@@ -82,7 +82,7 @@ sections:
           company: Beijing Institute of Big Data Research
           company_url: ''
           company_logo: org-bibdr
-          location: Beijing
+          location: Beijing, China
           date_start: '2019-01-01'
           date_end: '2021-12-01'
           description: Advised by Dr. Yi Zhang, working on research and projects of Big Data in Economics.
@@ -90,7 +90,7 @@ sections:
           company: Peking University
           company_url: ''
           company_logo: org-pku
-          location: Beijing
+          location: Beijing, China
           date_start: '2019-01-01'
           date_end: '2020-01-01'
           description: Advised by [Prof. Weinan E](https://web.math.princeton.edu/~weinan/) and [Prof. Yucheng Yang](https://sites.google.com/site/yangyucheng1993/), working on Economic Data Science Research.
@@ -222,7 +222,7 @@ sections:
       filters:
         folders:
           - publication
-        exclude_featured: true
+        exclude_featured: false
     design:
       columns: '2'
       view: citation
