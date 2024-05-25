@@ -38,10 +38,10 @@ interests:
 education:
   courses:
     - course: Ph.D. in Data Science
-      institution: University of Science and Technology of China
+      institution: School of Data Science, University of Science and Technology of China
       year: 2019-2025
     - course: B.S. in Mathematics
-      institution: University of Science and Technology of China
+      institution: School of the Gifted Young, University of Science and Technology of China
       year: 2015-2019
 
 # # Skills
