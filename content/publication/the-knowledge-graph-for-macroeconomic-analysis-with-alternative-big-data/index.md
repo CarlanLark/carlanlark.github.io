@@ -3,7 +3,7 @@ abstract: The current knowledge system of macroeconomics is built on interaction
 slides: ""
 url_pdf: https://arxiv.org/abs/2010.05172
 publication_types:
-  - "3"
+  - "Preprint"
 authors:
   - Yucheng Yang
   - Yue Pang

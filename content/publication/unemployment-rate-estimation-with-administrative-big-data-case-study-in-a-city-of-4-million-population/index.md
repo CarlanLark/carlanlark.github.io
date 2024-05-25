@@ -3,7 +3,7 @@ abstract: Among one of the major indicators of the economy, the unemployment rat
 slides: ""
 url_pdf: https://tjyj.stats.gov.cn/EN/article/getTxtFile.do?fileType=RefWorks&id=5555
 publication_types:
-  - "2"
+  - "Journal Paper"
 authors:
   - admin
   - Zhong Zheng

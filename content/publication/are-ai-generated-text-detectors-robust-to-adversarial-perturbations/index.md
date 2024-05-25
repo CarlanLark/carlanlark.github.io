@@ -3,7 +3,7 @@ abstract: The widespread use of large language models (LLMs) has sparked concern
 slides: ""
 url_pdf: ""
 publication_types:
-  - "1"
+  - "Conference Paper"
 authors:
   - admin
   - Yuchen Zhang

@@ -3,7 +3,7 @@ abstract: In this paper, we propose a novel Siamese Adversarial Network (SAN) ar
 slides: ""
 url_pdf: https://ieeexplore.ieee.org/document/10094595
 publication_types:
-  - "1"
+  - "Conference Paper"
 authors:
   - Zeping Min
   - Qian Ge

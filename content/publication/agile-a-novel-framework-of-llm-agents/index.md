@@ -3,7 +3,7 @@ abstract: We introduce a novel framework of LLM agents named AGILE (AGent that I
 slides: ""
 url_pdf: https://arxiv.org/abs/2405.14751
 publication_types:
-  - "3"
+  - "Preprint"
 authors:
   - Peiyuan Feng
   - Yichen He

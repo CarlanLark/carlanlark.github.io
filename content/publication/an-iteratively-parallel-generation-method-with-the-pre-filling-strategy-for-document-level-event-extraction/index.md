@@ -3,7 +3,7 @@ abstract: In document-level event extraction (DEE) tasks, a document typically c
 slides: ""
 url_pdf: https://aclanthology.org/2023.emnlp-main.668/
 publication_types:
-  - "1"
+  - "Conference Paper"
 authors:
   - admin
   - Runxin Xu

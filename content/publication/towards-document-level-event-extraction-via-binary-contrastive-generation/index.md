@@ -3,7 +3,7 @@ abstract: In this study, we explored the complexities of document-level event ex
 slides: ""
 url_pdf: https://www.sciencedirect.com/science/article/abs/pii/S0950705124005306
 publication_types:
-  - "2"
+  - "Journal Paper"
 authors:
   - admin
   - Zeping Min
