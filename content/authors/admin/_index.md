@@ -38,10 +38,10 @@ interests:
 education:
   courses:
     - course: Ph.D. in Data Science
-      institution: School of Data Science, University of Science and Technology of China
+      institution: [School of Data Science](http://sds.ustc.edu.cn/), [University of Science and Technology of China](https://en.ustc.edu.cn/)
       year: 2019-2025
     - course: B.S. in Mathematics
-      institution: School of the Gifted Young, University of Science and Technology of China
+      institution: [School of the Gifted Young](https://sgy.ustc.edu.cn/), [University of Science and Technology of China](https://en.ustc.edu.cn/)
       year: 2015-2019
 
 # # Skills
@@ -118,4 +118,4 @@ social:
 highlight_name: true
 ---
 
-Guanhua Huang (黄冠华) is a Ph.D. candidate in [University of Science and Technology of China](https://en.ustc.edu.cn/) (USTC), advised by [Weinan E](https://web.math.princeton.edu/~weinan/) and [Zhouwang Yang](http://staff.ustc.edu.cn/~yangzw/). Previously, he got a Bachelor in Mathematics from [University of Science and Technology of China](https://en.ustc.edu.cn/) (USTC). He did internships at BIBDR and ByteDance, and mentored by [Yucheng Yang](https://sites.google.com/site/yangyucheng1993/), Yi Zhang, Jiaze Chen and [Yuchen Zhang](https://zhangyuc.github.io/).
+Guanhua Huang (黄冠华) is a Ph.D. candidate in [University of Science and Technology of China](https://en.ustc.edu.cn/) (USTC), advised by [Prof. Weinan E](https://web.math.princeton.edu/~weinan/) and [Prof. Zhouwang Yang](http://staff.ustc.edu.cn/~yangzw/). Previously, he got a Bachelor in Mathematics from [University of Science and Technology of China](https://en.ustc.edu.cn/) (USTC), advised by [Prof. Zhouwang Yang](http://staff.ustc.edu.cn/~yangzw/). He did internships at [BIBDR](http://www.bibdr.org/) and [ByteDance](https://www.bytedance.com/en/), and mentored by [Prof. Yucheng Yang](https://sites.google.com/site/yangyucheng1993/), Dr. Yi Zhang, Dr. Jiaze Chen and [Dr. Yuchen Zhang](https://zhangyuc.github.io/).
