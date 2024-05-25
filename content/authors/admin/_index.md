@@ -38,10 +38,10 @@ interests:
 education:
   courses:
     - course: Ph.D. in Data Science
-      institution: [School of Data Science](http://sds.ustc.edu.cn/), [University of Science and Technology of China](https://en.ustc.edu.cn/)
+      institution: School of Data Science, University of Science and Technology of China
       year: 2019-2025
     - course: B.S. in Mathematics
-      institution: [School of the Gifted Young](https://sgy.ustc.edu.cn/), [University of Science and Technology of China](https://en.ustc.edu.cn/)
+      institution: School of the Gifted Young, University of Science and Technology of China
       year: 2015-2019
 
 # # Skills
