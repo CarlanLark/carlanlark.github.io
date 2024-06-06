@@ -29,16 +29,16 @@ bio:
 
 # Interests to show in About widget
 interests:
-  - LLM Applications
-  - Scientific Document Processing
-  - Information Extraction
+  - LLM Agents
+  - NLP Applications
+  - Scholarly Document Processing
   - Big Data in Economics
 
 # Education to show in About widget
 education:
   courses:
     - course: Ph.D. in Data Science
-      institution: School of Data Science, University of Science and Technology of China
+      institution: School of Artificial Intelligence and Data Science, University of Science and Technology of China
       year: 2019-2025
     - course: B.S. in Mathematics
       institution: School of the Gifted Young, University of Science and Technology of China
