@@ -3,7 +3,7 @@ abstract: In this work, we propose an Implicit Regularization Enhancement (IRE) 
 slides: ""
 url_pdf: https://arxiv.org/abs/2405.20763
 publication_types:
-  - "3"
+  - "1"
 authors:
   - Mingze Wang
   - Haotian He
@@ -15,7 +15,7 @@ authors:
   - Weinan E
   - Lei Wu
 author_notes: []
-publication: Preprint
+publication: In *Neural Information Processing Systems 37 (**NeurIPS 2024**)*
 summary: "We propose an Implicit Regularization Enhancement (IRE) framework to accelerate the discovery of flat solutions in deep learning, thereby improving generalization and convergence."
 url_dataset: ""
 url_project: ""

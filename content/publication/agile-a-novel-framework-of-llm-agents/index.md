@@ -19,7 +19,7 @@ author_notes:
   - Equal contribution
   - Equal contribution
   - Equal contribution
-publication: Preprint
+publication: In *Neural Information Processing Systems 37 (**NeurIPS 2024**)*
 summary: "We introduce a novel framework of LLM agents named AGILE (AGent that Interacts and Learns from Environments) designed to perform complex conversational tasks with users, leveraging LLMs, memory, tools, and interactions with experts."
 url_dataset: ""
 url_project: ""

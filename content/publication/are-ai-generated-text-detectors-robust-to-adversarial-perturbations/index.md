@@ -33,5 +33,5 @@ date: 2024-05-15T02:12:23.523Z
 url_slides: ""
 publishDate: 2024-05-15T00:00:00.000Z
 url_poster: ""
-url_code: ""
+url_code: "https://github.com/CarlanLark/Robust-AIGC-Detector"
 ---
