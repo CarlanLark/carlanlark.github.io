@@ -3,10 +3,10 @@ abstract: We introduce PaSa, an advanced Paper Search agent powered by large lan
 slides: ""
 url_pdf: https://arxiv.org/abs/2501.10120
 publication_types:
-  - "3"
+  - "1"
 authors:
   - Yichen He
-  - Guanhua Huang
+  - admin
   - Peiyuan Feng
   - Yuan Lin
   - Yuchen Zhang
@@ -15,7 +15,7 @@ authors:
 author_notes: 
   - Equal contribution
   - Equal contribution
-publication: Arxiv
+publication: In *The 63rd Annual Meeting of the Association for Computational Linguistics (**ACL 2025**)*
 summary: "We introduce PaSa, an advanced Paper Search agent powered by large language models. PaSa can autonomously make a series of decisions, including invoking search tools, reading papers, and selecting relevant references, to ultimately obtain comprehensive and accurate results for complex scholarly queries."
 url_dataset: "https://huggingface.co/datasets/CarlanLark/pasa-dataset"
 url_project: "https://pasa-agent.ai/"

@@ -64,12 +64,20 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Research Intern
+          company: Tencent Hunyuan
+          company_url: ''
+          company_logo: org-hunyuan
+          location: Beijing, China
+          date_start: '2025-02-01'
+          date_end: '2025-07-01'
+          description: Working on Reasoning Model Research.
+        - title: Research Intern
           company: ByteDance Research
           company_url: ''
           company_logo: org-bytedance
           location: Beijing, China
-          date_start: '2022-01-26'
-          date_end: ''
+          date_start: '2022-01-01'
+          date_end: '2025-02-01'
           description: Mentored by [Dr. Jiaze Chen](https://scholar.google.com/citations?hl=zh-CN&user=Vt1j3kEAAAAJ&view_op=list_works&sortby=pubdate) and [Dr. Yuchen Zhang](https://zhangyuc.github.io/), working on LLM Research and Information Extraction Research.
         - title: Visiting Scholar
           company: Peking University
@@ -77,7 +85,7 @@ sections:
           company_logo: org-pku
           location: Beijing, China
           date_start: '2021-07-01'
-          date_end: ''
+          date_end: '2025-07-01'
           description: Advised by [Prof. Weinan E](https://web.math.princeton.edu/~weinan/), working on LLM Research, Information Extraction Research and AI4Science Research.
         - title: Intern
           company: Beijing Institute of Big Data Research

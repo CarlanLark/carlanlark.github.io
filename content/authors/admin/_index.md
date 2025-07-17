@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. candidate
+role: Ph.D.
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -29,10 +29,10 @@ bio:
 
 # Interests to show in About widget
 interests:
+  - Reasoning LLMs
   - LLM Agents
   - NLP Applications
   - Scholarly Document Processing
-  - Big Data in Economics
 
 # Education to show in About widget
 education:
@@ -118,4 +118,4 @@ social:
 highlight_name: true
 ---
 
-Guanhua Huang (黄冠华) is a Ph.D. candidate in [University of Science and Technology of China](https://en.ustc.edu.cn/) (USTC), advised by [Prof. Weinan E](https://web.math.princeton.edu/~weinan/) and [Prof. Zhouwang Yang](http://staff.ustc.edu.cn/~yangzw/). Previously, he got a Bachelor in Mathematics from [University of Science and Technology of China](https://en.ustc.edu.cn/) (USTC), advised by [Prof. Zhouwang Yang](http://staff.ustc.edu.cn/~yangzw/). He did internships at [BIBDR](http://www.bibdr.org/) and [ByteDance](https://www.bytedance.com/en/), and mentored by [Prof. Yucheng Yang](https://sites.google.com/site/yangyucheng1993/), Dr. Yi Zhang, Dr. Jiaze Chen, [Dr. Yuchen Zhang](https://zhangyuc.github.io/), and Dr. Yuan Lin.
+**Guanhua Huang** (黄冠华) is an algorithm engineer at Tencent. Previously, he earned his Ph.D. in Data Science from [University of Science and Technology of China](https://en.ustc.edu.cn/) (USTC), where he was advised by [Prof. Weinan E](https://web.math.princeton.edu/~weinan/) and [Prof. Zhouwang Yang](http://staff.ustc.edu.cn/~yangzw/). Before that, he received a Bachelor’s degree in Mathematics from [University of Science and Technology of China](https://en.ustc.edu.cn/) (USTC), advised by [Prof. Zhouwang Yang](http://staff.ustc.edu.cn/~yangzw/). He completed several internships at [BIBDR](http://www.bibdr.org/), [ByteDance](https://www.bytedance.com/en/), and [Tencent](https://www.tencent.com/en-us/), where he did fascinating works in Economic Data Science, Natural Language Processing, Large Language Models, and Reinforcement Learning.

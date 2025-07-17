@@ -12,7 +12,7 @@ authors:
   - Mingze Wang
   - Zhouwang Yang
 author_notes: []
-publication: In *The 62th Annual Meeting of the Association for Computational Linguistics (**ACL 2024**)*
+publication: In *The 62nd Annual Meeting of the Association for Computational Linguistics (**ACL 2024**)*
 summary: "We propose an robust AI-generated text detector against adversarial perturbations."
 url_dataset: ""
 url_project: ""
