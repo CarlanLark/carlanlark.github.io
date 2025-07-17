@@ -66,11 +66,11 @@ sections:
         - title: Research Intern
           company: Tencent Hunyuan
           company_url: ''
-          company_logo: org-hunyuan
+          company_logo: org-tencent
           location: Beijing, China
           date_start: '2025-02-01'
           date_end: '2025-07-01'
-          description: Working on Reasoning Model Research.
+          description: Worked on Reasoning Model Research.
         - title: Research Intern
           company: ByteDance Research
           company_url: ''
