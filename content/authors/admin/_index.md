@@ -91,7 +91,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: guanhuahuang@mail.ustc.edu.cn
+    link: "mailto:guanhuahuang@mail.ustc.edu.cn"
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/GeorgeCushen
