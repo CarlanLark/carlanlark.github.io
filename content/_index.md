@@ -63,11 +63,19 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Researcher
+          company: Tencent Hunyuan
+          company_url: ''
+          company_logo: org-tencent
+          location: Shenzhen, China
+          date_start: '2025-07-01'
+          date_end: ''
+          description: Worked on LLM and Agent Research.
         - title: Research Intern
           company: Tencent Hunyuan
           company_url: ''
           company_logo: org-tencent
-          location: Beijing, China
+          location: Shenzhen, China
           date_start: '2025-02-01'
           date_end: '2025-07-01'
           description: Worked on Reasoning Model Research.
