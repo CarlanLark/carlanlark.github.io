@@ -27,7 +27,7 @@ url_source: ""
 url_video: ""
 title: "Low-probability Tokens Sustain Exploration in Reinforcement Learning with Verifiable Reward"
 doi: ""
-featured: false
+featured: true
 tags: []
 projects: []
 image:
